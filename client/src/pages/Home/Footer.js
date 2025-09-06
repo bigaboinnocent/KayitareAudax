@@ -12,7 +12,7 @@ function Footer() {
                   Copyright © 2025 All rights reserved | This turf is made by
               </h1>
              <h className="text-white">
-              Bigabo Innocent
+              Kayitare Audax
              </h>
         </div>
     </div>
